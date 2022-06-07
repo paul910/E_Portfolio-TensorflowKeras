@@ -11,4 +11,7 @@ You need to have this program language and libraries installed
 - [matplotlib](https://matplotlib.org/)
 
 ## Presentation
-... coming soon
+[Power Point](https://docs.google.com/presentation/d/1bEw2nnrpsHMEf7fTlYGjzHGcWkYog28rQpAA2JyNbq8/edit?usp=sharing)
+
+## Neural Network
+Neural networks reflect the behavior of the human brain, allowing computer programs to recognize patterns and solve common problems in the fields of AI, machine learning, and deep learning.
